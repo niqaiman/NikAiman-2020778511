@@ -1,0 +1,35 @@
+table body {
+    font-family: 'Times New Roman', Times, serif;
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: rgb(32, 18, 18);
+    font-size:0.5rem;
+    background-color: white;
+  }
+
+  table{
+    border-collapse: collapse;
+    box-shadow: 0;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-top: .5px solid white;
+      border-bottom: 1px solid white;
+  }
+
+  th{
+    background-color: #ccccff;
+    padding: 0.55rem 2rem;
+    letter-spacing: 0.1rem;
+    font-size: 0.9rem;
+    font-weight: 900;
+    border-top: .5px solid white;
+      border-bottom: 1px solid white;
+  }
+
+  td{
+    padding: 1rem 2rem ;
+    border-top: .5px solid white;
+      border-bottom: 1px solid white;
+  }
